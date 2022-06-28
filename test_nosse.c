@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <time.h>
 
-// 1m22sec
+// 1m 22sec
 int main(int argc, char* argv[])
 {
 	printf("Starting calculation...\n");
